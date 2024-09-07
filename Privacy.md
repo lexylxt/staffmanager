@@ -3,6 +3,7 @@ Effective Date: 7 september 2024
 This Privacy Policy describes how Staff Manager ("we," "us," or "our") collects, uses, and shares your personal information when you use our services through Discord. By using the Staff Manager bot and any related services, you agree to the terms outlined in this Privacy Policy.
 
 1. **Information We Collect**
+   
   1.1 **User Information**
     When using Staff Manager, we may collect the following types of information from users :
     
