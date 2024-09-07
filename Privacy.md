@@ -1,7 +1,3 @@
-Voici une version améliorée du document **Privacy Policy** pour une présentation sur GitHub, optimisée pour une meilleure lisibilité et structure :
-
----
-
 # **Privacy Policy for Staff Manager**
 
 **Effective Date: 7 September 2024**
