@@ -6,15 +6,15 @@ This Privacy Policy describes how Staff Manager ("we," "us," or "our") collects,
   1.1 **User Information**
     When using Staff Manager, we may collect the following types of information from users :
     
-    - **Discord Usernames and IDs :** To manage roles, teams, and permissions.
-    - **Server Information :** Information related to your server, such as server ID, member count, roles, and channels, to manage team functionalities.
-    - **Member Performance Data :** If applicable, performance evaluations and activity reports on members for internal management purposes.
+  - **Discord Usernames and IDs :** To manage roles, teams, and permissions.
+  - **Server Information :** Information related to your server, such as server ID, member count, roles, and channels, to manage team functionalities.
+  - **Member Performance Data :** If applicable, performance evaluations and activity reports on members for internal management purposes.
    
   1.2 **Automatically Collected Information**
     We automatically collect data related to how users interact with Staff Manager, including :
 
-    - **Logs of Actions :** Information about actions performed using the bot, including command usage and moderation activities.
-    - **System Information :** Data about your device, such as operating system and browser type, to ensure compatibility and functionality.
+  - **Logs of Actions :** Information about actions performed using the bot, including command usage and moderation activities.
+  - **System Information :** Data about your device, such as operating system and browser type, to ensure compatibility and functionality.
   
 2. **How We Use Your Information**
   Staff Manager uses the collected data for the following purposes:
