@@ -68,7 +68,7 @@ You have the following rights concerning your personal data:
 - **Data Deletion:** You have the right to request the deletion of your data from our systems.
 - **Data Portability:** You can request a copy of your data in a structured, commonly used format.
 
-To exercise any of these rights, please contact us at **lexy.lxt@gmail.com**.
+To exercise any of these rights, please contact us on Discord.
 
 ---
 
@@ -80,7 +80,7 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## **8. Contact Us**
 
-If you have any questions about this Privacy Policy or how we handle your data, please contact us at **lexy.lxt@gmail.com**.
+If you have any questions about this Privacy Policy or how we handle your data, please contact us on Discord.
 
 ---
 
