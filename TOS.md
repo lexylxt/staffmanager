@@ -81,13 +81,13 @@ We reserve the right to terminate or suspend your access to the Service at any t
 
 ## **9. Governing Law**
 
-These Terms are governed by and construed in accordance with the laws of [Your Country], without regard to conflict of law principles. Any disputes arising under or in connection with these Terms will be resolved in the courts of [Your Country].
+These Terms are governed by and construed in accordance with the laws of France, without regard to conflict of law principles. Any disputes arising under or in connection with these Terms will be resolved in the courts of France.
 
 ---
 
 ## **10. Contact Information**
 
-If you have any questions or concerns about these Terms or the use of **Staff Manager**, please contact us at **lexy.lxt@gmail.com**.
+If you have any questions or concerns about these Terms or the use of **Staff Manager**, please contact us on Discord.
 
 ---
 
